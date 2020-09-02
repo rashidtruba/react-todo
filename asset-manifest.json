@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rashidtruba/react-todo/static/css/main.0e5a2f6f.chunk.css",
+    "main.js": "/rashidtruba/react-todo/static/js/main.498689e2.chunk.js",
+    "main.js.map": "/rashidtruba/react-todo/static/js/main.498689e2.chunk.js.map",
+    "runtime-main.js": "/rashidtruba/react-todo/static/js/runtime-main.ded118b0.js",
+    "runtime-main.js.map": "/rashidtruba/react-todo/static/js/runtime-main.ded118b0.js.map",
+    "static/js/2.de96f8a1.chunk.js": "/rashidtruba/react-todo/static/js/2.de96f8a1.chunk.js",
+    "static/js/2.de96f8a1.chunk.js.map": "/rashidtruba/react-todo/static/js/2.de96f8a1.chunk.js.map",
+    "index.html": "/rashidtruba/react-todo/index.html",
+    "precache-manifest.b14d3dd88fa776c68869373015644829.js": "/rashidtruba/react-todo/precache-manifest.b14d3dd88fa776c68869373015644829.js",
+    "service-worker.js": "/rashidtruba/react-todo/service-worker.js",
+    "static/css/main.0e5a2f6f.chunk.css.map": "/rashidtruba/react-todo/static/css/main.0e5a2f6f.chunk.css.map",
+    "static/js/2.de96f8a1.chunk.js.LICENSE.txt": "/rashidtruba/react-todo/static/js/2.de96f8a1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rashidtruba/react-todo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ded118b0.js",
+    "static/js/2.de96f8a1.chunk.js",
+    "static/css/main.0e5a2f6f.chunk.css",
+    "static/js/main.498689e2.chunk.js"
+  ]
+}
